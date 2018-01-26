@@ -1,5 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css?family=Elsie+Swash+Caps');
+@import url('https://fonts.googleapis.com/css?family=Clicker+Script');
 
 /* this is a comment*/
 /* CSS syntax:
@@ -16,5 +17,11 @@ p {
 figcaption{
   color: #777;
   text-align:right;
-  font:normal 0.75em/1.5em Georgia, "Times New Roman", serif;
+  font:normal 0.75em/1.5em "elsie swash caps", cursive;
+}
+
+.milk-text{
+  font:bold 2.6em "elsie swash caps", cursive;
+  color:white;
+  text
 }
