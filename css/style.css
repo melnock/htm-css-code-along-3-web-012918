@@ -23,5 +23,5 @@ figcaption{
 .milk-text{
   font:bold 2.6em "elsie swash caps", cursive;
   color:white;
-  text
+  text-shadow: 0 2px 2px #000;
 }
